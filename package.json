@@ -1,5 +1,5 @@
 {
-  "name": "ui-lib",
+  "name": "@Valeria2312/react_ui_lib",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -26,5 +26,8 @@
   "types": "dist/index.d.ts",
   "dependencies": {
     "rollup-plugin-typescript2": "^0.36.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Valeria2312"
   }
 }
